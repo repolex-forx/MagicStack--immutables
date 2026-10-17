@@ -1,0 +1,11 @@
+{
+  "org": "MagicStack",
+  "repo": "immutables",
+  "versions": [
+    {
+      "commit": "1317f9d607b2a540aca37716e902adba56925a99",
+      "tag": "v0.21",
+      "parsed_at": "2026-10-17T02:36:43.284666+00:00"
+    }
+  ]
+}
