@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/MagicStack/immutables/commit/1317f9d607b2a540aca37716e902adba56925a99",
       "git:hexsha": "1317f9d607b2a540aca37716e902adba56925a99",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.21"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.21",
+      "repolex:parsedAt": "2026-10-17T02:36:43.284124+00:00"
     },
     {
       "@id": "https://repolex.ai/r/MagicStack/immutables/commit/197ceabc33c6629cfeae00ded1c4ed2244378927",
